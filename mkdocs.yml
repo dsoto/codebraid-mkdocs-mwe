@@ -1,0 +1,12 @@
+site_name: Codebraid
+nav:
+    - Index: index.md
+    - Katex: katex.md
+    - Matplotlib: matplotlib.md
+    - Schemdraw: schemdraw.md
+    - Graphviz: graphviz.md
+extra_css:
+    - katex/katex.min.css
+extra_javascript:
+    - katex/katex.min.js
+    - katex/katex-render.js
